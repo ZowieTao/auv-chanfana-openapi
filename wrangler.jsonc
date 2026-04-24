@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "auv-chanfana-openapi",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "auv-db",
+			"database_id": "000e3198-4d02-4c9a-adeb-690eb7894bf7"
+		}
+	]
+}
